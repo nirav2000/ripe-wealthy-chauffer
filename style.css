@@ -1,0 +1,17 @@
+h1 {padding-left:20px;}
+
+#question-container {
+    margin-bottom: 20px;
+}
+
+#answer-container {
+    margin-bottom: 20px;
+}
+
+#startButton {
+      padding: 10px 20px;
+      font-size: 18px;
+      margin: 20px;
+      cursor: pointer;
+      background-color:lightgreen;
+}
